@@ -67,6 +67,3 @@ Data Science Enthusiast
 ## Notes
 - This project is focused on **numerical methods** and their application in real-world data.
 - Data and methods can be extended for **predicting future expenditures** or optimizing budget allocation.
-## Notes
-- This project is focused on **numerical methods** and their application in real-world data.
-- Data and methods can be extended for **predicting future expenditures** or optimizing budget allocation.
